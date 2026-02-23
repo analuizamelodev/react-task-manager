@@ -47,8 +47,11 @@ The application will run locally using Vite’s development server.
 ## Useful Scripts
 
 `npm run dev` - Starts the development server
+
 `npm run build` - Generates the production build (/dist)
+
 `npm run preview` - Previews the production build locally
+
 `npm run lint`(if available) - Runs ESLint to analyze the code
 
 ## Author
