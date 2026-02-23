@@ -1,4 +1,4 @@
-# Task Manager
+# React Task Manager
 
 This repository contains a task management frontend application built with React, TypeScript, and Vite. It allows users to create tasks, view task details, and delete tasks in a simple and intuitive interface.
 
